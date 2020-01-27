@@ -1,5 +1,4 @@
-# Algorithmic detection of tweets by @realDonaldTrump that are likely to have
-  an impact on the stock market
+# Algorithmic detection of tweets by @realDonaldTrump that are likely to have an impact on the stock market
 The repository consists of the [*code/*](./code/) and [*data/*](./data/) folders.
 
 The structure of data is as follows:  
